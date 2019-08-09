@@ -1,0 +1,18 @@
+c:\users\胡俊聪\documents\visual studio 2015\Projects\test01\test01\bin\Debug\test01.exe.config
+c:\users\胡俊聪\documents\visual studio 2015\Projects\test01\test01\bin\Debug\test01.exe
+c:\users\胡俊聪\documents\visual studio 2015\Projects\test01\test01\bin\Debug\test01.pdb
+c:\users\胡俊聪\documents\visual studio 2015\Projects\test01\test01\obj\Debug\test01.csprojResolveAssemblyReference.cache
+c:\users\胡俊聪\documents\visual studio 2015\Projects\test01\test01\obj\Debug\test01.Form1.resources
+c:\users\胡俊聪\documents\visual studio 2015\Projects\test01\test01\obj\Debug\test01.Properties.Resources.resources
+c:\users\胡俊聪\documents\visual studio 2015\Projects\test01\test01\obj\Debug\test01.csproj.GenerateResource.Cache
+c:\users\胡俊聪\documents\visual studio 2015\Projects\test01\test01\obj\Debug\test01.exe
+c:\users\胡俊聪\documents\visual studio 2015\Projects\test01\test01\obj\Debug\test01.pdb
+F:\夏令营练习\test01\test01\bin\Debug\test01.exe.config
+F:\夏令营练习\test01\test01\obj\Debug\test01.exe
+F:\夏令营练习\test01\test01\obj\Debug\test01.pdb
+F:\夏令营练习\test01\test01\bin\Debug\test01.exe
+F:\夏令营练习\test01\test01\bin\Debug\test01.pdb
+F:\夏令营练习\test01\test01\obj\Debug\test01.csprojResolveAssemblyReference.cache
+F:\夏令营练习\test01\test01\obj\Debug\test01.Form1.resources
+F:\夏令营练习\test01\test01\obj\Debug\test01.Properties.Resources.resources
+F:\夏令营练习\test01\test01\obj\Debug\test01.csproj.GenerateResource.Cache

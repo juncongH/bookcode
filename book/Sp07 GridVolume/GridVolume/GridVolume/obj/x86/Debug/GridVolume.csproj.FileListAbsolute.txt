@@ -1,0 +1,24 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GridVolume\GridVolume\bin\Debug\GridVolume.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GridVolume\GridVolume\bin\Debug\GridVolume.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GridVolume\GridVolume\obj\x86\Debug\GridVolume.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GridVolume\GridVolume\obj\x86\Debug\GridVolume.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GridVolume\GridVolume\obj\x86\Debug\GridVolume.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GridVolume\GridVolume\obj\x86\Debug\GridVolume.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GridVolume\GridVolume\obj\x86\Debug\GridVolume.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GridVolume\GridVolume\obj\x86\Debug\GridVolume.pdb
+D:\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.exe
+D:\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.pdb
+D:\程序设计\GridVolume\GridVolume\GridVolume\bin\Debug\GridVolume.exe
+D:\程序设计\GridVolume\GridVolume\GridVolume\bin\Debug\GridVolume.pdb
+D:\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.csprojResolveAssemblyReference.cache
+D:\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.Form1.resources
+D:\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.Properties.Resources.resources
+D:\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.csproj.GenerateResource.Cache
+D:\2018测绘技能大赛\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.exe
+D:\2018测绘技能大赛\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.pdb
+D:\2018测绘技能大赛\程序设计\GridVolume\GridVolume\GridVolume\bin\Debug\GridVolume.exe
+D:\2018测绘技能大赛\程序设计\GridVolume\GridVolume\GridVolume\bin\Debug\GridVolume.pdb
+D:\2018测绘技能大赛\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.csprojResolveAssemblyReference.cache
+D:\2018测绘技能大赛\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.Form1.resources
+D:\2018测绘技能大赛\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.Properties.Resources.resources
+D:\2018测绘技能大赛\程序设计\GridVolume\GridVolume\GridVolume\obj\x86\Debug\GridVolume.csproj.GenerateResource.Cache

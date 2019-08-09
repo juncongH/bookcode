@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2010\Projects\TraverseAdjustment\TraverseAdjustment\bin\Debug\TraverseAdjustment.exe
+c:\users\administrator\documents\visual studio 2010\Projects\TraverseAdjustment\TraverseAdjustment\bin\Debug\TraverseAdjustment.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.exe
+c:\users\administrator\documents\visual studio 2010\Projects\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.csprojResolveAssemblyReference.cache
+D:\程序设计\TraverseAdjustment\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.exe
+D:\程序设计\TraverseAdjustment\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.pdb
+D:\程序设计\TraverseAdjustment\TraverseAdjustment\TraverseAdjustment\bin\Debug\TraverseAdjustment.exe
+D:\程序设计\TraverseAdjustment\TraverseAdjustment\TraverseAdjustment\bin\Debug\TraverseAdjustment.pdb
+D:\程序设计\TraverseAdjustment\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.csprojResolveAssemblyReference.cache
+D:\程序设计\TraverseAdjustment\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.Form1.resources
+D:\程序设计\TraverseAdjustment\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.Properties.Resources.resources
+D:\程序设计\TraverseAdjustment\TraverseAdjustment\TraverseAdjustment\obj\x86\Debug\TraverseAdjustment.csproj.GenerateResource.Cache

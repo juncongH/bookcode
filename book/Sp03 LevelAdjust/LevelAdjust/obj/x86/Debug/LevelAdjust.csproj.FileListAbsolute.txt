@@ -1,0 +1,16 @@
+D:\test\LevelAdjust\LevelAdjust\bin\Debug\LevelAdjust.exe
+D:\test\LevelAdjust\LevelAdjust\bin\Debug\LevelAdjust.pdb
+D:\test\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.Form1.resources
+D:\test\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.Properties.Resources.resources
+D:\test\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.csproj.GenerateResource.Cache
+D:\test\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.exe
+D:\test\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.pdb
+D:\test\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.csprojResolveAssemblyReference.cache
+D:\2018测绘技能大赛\程序设计\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.exe
+D:\2018测绘技能大赛\程序设计\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.pdb
+D:\2018测绘技能大赛\程序设计\LevelAdjust\LevelAdjust\bin\Debug\LevelAdjust.exe
+D:\2018测绘技能大赛\程序设计\LevelAdjust\LevelAdjust\bin\Debug\LevelAdjust.pdb
+D:\2018测绘技能大赛\程序设计\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.csprojResolveAssemblyReference.cache
+D:\2018测绘技能大赛\程序设计\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.Form1.resources
+D:\2018测绘技能大赛\程序设计\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.Properties.Resources.resources
+D:\2018测绘技能大赛\程序设计\LevelAdjust\LevelAdjust\obj\x86\Debug\LevelAdjust.csproj.GenerateResource.Cache

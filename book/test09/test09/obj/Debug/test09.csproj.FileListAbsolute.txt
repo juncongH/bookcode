@@ -1,0 +1,9 @@
+C:\Users\胡俊聪\Documents\Visual Studio 2015\Projects\test09\test09\bin\Debug\test09.exe.config
+C:\Users\胡俊聪\Documents\Visual Studio 2015\Projects\test09\test09\bin\Debug\test09.exe
+C:\Users\胡俊聪\Documents\Visual Studio 2015\Projects\test09\test09\bin\Debug\test09.pdb
+C:\Users\胡俊聪\Documents\Visual Studio 2015\Projects\test09\test09\obj\Debug\test09.csprojResolveAssemblyReference.cache
+C:\Users\胡俊聪\Documents\Visual Studio 2015\Projects\test09\test09\obj\Debug\test09.Form1.resources
+C:\Users\胡俊聪\Documents\Visual Studio 2015\Projects\test09\test09\obj\Debug\test09.Properties.Resources.resources
+C:\Users\胡俊聪\Documents\Visual Studio 2015\Projects\test09\test09\obj\Debug\test09.csproj.GenerateResource.Cache
+C:\Users\胡俊聪\Documents\Visual Studio 2015\Projects\test09\test09\obj\Debug\test09.exe
+C:\Users\胡俊聪\Documents\Visual Studio 2015\Projects\test09\test09\obj\Debug\test09.pdb

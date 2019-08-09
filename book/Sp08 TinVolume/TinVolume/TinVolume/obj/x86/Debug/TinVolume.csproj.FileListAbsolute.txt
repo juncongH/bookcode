@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TinVolume\TinVolume\obj\x86\Debug\TinVolume.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TinVolume\TinVolume\obj\x86\Debug\TinVolume.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TinVolume\TinVolume\obj\x86\Debug\TinVolume.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TinVolume\TinVolume\obj\x86\Debug\TinVolume.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TinVolume\TinVolume\bin\Debug\TinVolume.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TinVolume\TinVolume\bin\Debug\TinVolume.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TinVolume\TinVolume\obj\x86\Debug\TinVolume.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\TinVolume\TinVolume\obj\x86\Debug\TinVolume.pdb

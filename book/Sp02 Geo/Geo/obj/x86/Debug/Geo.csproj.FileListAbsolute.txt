@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Geo\Geo\bin\Debug\Geo.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Geo\Geo\bin\Debug\Geo.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Geo\Geo\obj\x86\Debug\Geo.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Geo\Geo\obj\x86\Debug\Geo.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Geo\Geo\obj\x86\Debug\Geo.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\Geo\Geo\obj\x86\Debug\Geo.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Geo\Geo\obj\x86\Debug\Geo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Geo\Geo\obj\x86\Debug\Geo.csprojResolveAssemblyReference.cache

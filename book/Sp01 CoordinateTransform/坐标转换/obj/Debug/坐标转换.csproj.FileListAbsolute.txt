@@ -1,0 +1,9 @@
+c:\users\胡俊聪\documents\visual studio 2015\Projects\坐标转换\坐标转换\bin\Debug\坐标转换.exe.config
+c:\users\胡俊聪\documents\visual studio 2015\Projects\坐标转换\坐标转换\obj\Debug\坐标转换.csprojResolveAssemblyReference.cache
+c:\users\胡俊聪\documents\visual studio 2015\Projects\坐标转换\坐标转换\obj\Debug\坐标转换.Form1.resources
+c:\users\胡俊聪\documents\visual studio 2015\Projects\坐标转换\坐标转换\obj\Debug\坐标转换.Properties.Resources.resources
+c:\users\胡俊聪\documents\visual studio 2015\Projects\坐标转换\坐标转换\obj\Debug\坐标转换.csproj.GenerateResource.Cache
+c:\users\胡俊聪\documents\visual studio 2015\Projects\坐标转换\坐标转换\bin\Debug\坐标转换.exe
+c:\users\胡俊聪\documents\visual studio 2015\Projects\坐标转换\坐标转换\bin\Debug\坐标转换.pdb
+c:\users\胡俊聪\documents\visual studio 2015\Projects\坐标转换\坐标转换\obj\Debug\坐标转换.exe
+c:\users\胡俊聪\documents\visual studio 2015\Projects\坐标转换\坐标转换\obj\Debug\坐标转换.pdb

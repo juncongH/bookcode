@@ -1,0 +1,7 @@
+D:\test\Trianglation\Trianglation\bin\Debug\Trianglation.exe
+D:\test\Trianglation\Trianglation\bin\Debug\Trianglation.pdb
+D:\test\Trianglation\Trianglation\obj\x86\Debug\Trianglation.Form1.resources
+D:\test\Trianglation\Trianglation\obj\x86\Debug\Trianglation.Properties.Resources.resources
+D:\test\Trianglation\Trianglation\obj\x86\Debug\Trianglation.csproj.GenerateResource.Cache
+D:\test\Trianglation\Trianglation\obj\x86\Debug\Trianglation.exe
+D:\test\Trianglation\Trianglation\obj\x86\Debug\Trianglation.pdb

@@ -1,0 +1,7 @@
+D:\test\Pro_Sec\Pro_Sec\bin\Debug\Pro_Sec.exe
+D:\test\Pro_Sec\Pro_Sec\bin\Debug\Pro_Sec.pdb
+D:\test\Pro_Sec\Pro_Sec\obj\x86\Debug\Pro_Sec.Form1.resources
+D:\test\Pro_Sec\Pro_Sec\obj\x86\Debug\Pro_Sec.Properties.Resources.resources
+D:\test\Pro_Sec\Pro_Sec\obj\x86\Debug\Pro_Sec.csproj.GenerateResource.Cache
+D:\test\Pro_Sec\Pro_Sec\obj\x86\Debug\Pro_Sec.exe
+D:\test\Pro_Sec\Pro_Sec\obj\x86\Debug\Pro_Sec.pdb
